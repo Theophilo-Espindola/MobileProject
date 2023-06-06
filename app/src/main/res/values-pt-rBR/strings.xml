@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FomeZero</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="Welcome">Bem vindo</string>
+    <string name="msgError">Usuário incorreto</string>
+    <string name="btTelaInformation">Saber mais</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">Email</string>
+    <string name="lista">Lista</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FomeZero</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="Welcome">Welcome</string>
+    <string name="msgError">User error</string>
+    <string name="btTelaInformation">more</string>
+    <string name="cadastrar">Register</string>
+    <string name="email">Email</string>
+    <string name="lista">List</string>
+</resources>
